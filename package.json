@@ -1,0 +1,22 @@
+{
+  "name": "ztsh5",
+  "version": "1.0.0",
+  "description": "master readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZengTianShengZ/ztsh5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZengTianShengZ/ztsh5/issues"
+  },
+  "homepage": "https://github.com/ZengTianShengZ/ztsh5#readme",
+  "dependencies": {
+    "@gaoding/gd-abtest": "^0.0.6"
+  }
+}
